@@ -1,1 +1,7 @@
 .ipynb_checkpoints
+*.pyc
+
+# project_2 data files
+/project_2/cifar-10-batches-py/
+/project_2/cifar-10-python.tar.gz
+/project_2/preprocess*
